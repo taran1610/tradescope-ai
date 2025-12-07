@@ -1,0 +1,2 @@
+# tradescope-ai
+trading journal 
